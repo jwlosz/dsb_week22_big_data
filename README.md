@@ -1,5 +1,5 @@
 # dsb_week22_big_data
-All submission code can be found within the 'Submisssion' Folder
+All submission code can be found within the 'submisssion code' Folder
 
 This notebook outlines the steps taken to analyze home sales data using PySpark SQL in Google Colab. The analysis focuses on various queries related to home prices based on specific criteria.
 
